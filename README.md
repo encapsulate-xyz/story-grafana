@@ -14,6 +14,9 @@ Demo: https://grafana.story.encapsulate.xyz/public-dashboards/d83bd674c638411a99
 ![Consensus Metrics Part 1](https://raw.githubusercontent.com/encapsulate-xyz/story-grafana/refs/heads/main/images/consensus1.png)
 ![Consensus Metrics Part 2](https://raw.githubusercontent.com/encapsulate-xyz/story-grafana/refs/heads/main/images/consensus2.png)
 
+### System Health
+![System](https://raw.githubusercontent.com/encapsulate-xyz/story-grafana/refs/heads/main/images/system.png)
+
 ---
 
 ## Guide
