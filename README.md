@@ -3,6 +3,8 @@
 
 This project provides Grafana dashboard panels to monitor the **Story Protocol Consensus Node** , **Geth Execution Node** and **System Health**. You can import the `dashboard.json` file into your Grafana instance to start using it.
 
+Demo: https://grafana.story.encapsulate.xyz/public-dashboards/984f4f62fac841bf8bd957ca3f46f089
+
 
 ## Visual Overview
 
